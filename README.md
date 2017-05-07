@@ -2,6 +2,8 @@
 
 #### A 2D web Flash arcade game based on the classic Arkanoid.
 
+![aquanoid](http://portfolio.visualstudioex3.com/wp-content/uploads/2011/10/aquanoid_flash_02.jpg)
+
 ##### Development date/period: 
 * October-November 2011
 
