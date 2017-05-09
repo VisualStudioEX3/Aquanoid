@@ -1,4 +1,5 @@
 # Aquanoid
+© Undead Code Studios 2011
 
 #### A 2D web Flash arcade game based on the classic Arkanoid.
 
